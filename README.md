@@ -1,7 +1,7 @@
 <h1>👋, I'm William</h1>
 <p>Developer based in london</p>
-# 💫 About Me:
-💫Im a developer keen to learn!
+💫About Me:
+I am a passionate developer eager to learn and grow in the tech field. My curiosity drives me to explore new languages and tools, and I thrive on solving challenges. Whether working on personal projects or collaborating with others, I am dedicated to creating innovative solutions and embracing new experiences.
 
 <h2>💻 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
