@@ -1,20 +1,27 @@
-<h1>👋, I'm William</h1>
-💫About Me:
-I am a passionate developer based in london, who is eager to learn and grow in the tech field. My curiosity drives me to explore new languages and tools, and I thrive on solving challenges. Whether working on personal projects or collaborating with others, I am dedicated to creating innovative solutions and embracing new experiences.
+<h1 align="left">👋William</h1>
 
-<h2>💻 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
+###
 
+<h4 align="left">💫About me:<br><br>I'm William, a new developer in London. I'm eager to learn and grow my skills in coding. I enjoy exploring new technologies and am excited to work on interesting projects. I'm looking forward to connecting with other developers and improving my knowledge in this field.</h4>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ninja-za&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ninja-za&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-za&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br clear="both">
 
----
-[![](https://visitcount.itsvg.in/api?id=Ninja-za&icon=5&color=0)](https://visitcount.itsvg.in)
+<img align="right" height="153" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif"  />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="55" alt="flask logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ninja-za/Ninja-za/output/snake.svg" alt="Snake animation" />
+
+###
