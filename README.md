@@ -3,12 +3,12 @@
 <table>
   <tr>
     <td>
-      <h4>
+      <h3>
         I'm William, a developer based in London🌃.
         I'm eager to learn and grow my skills in coding👨‍💻.
         I enjoy exploring new technologies and am excited to work on interesting projects🏗️.
         I'm looking forward to connecting with other developers and improving my knowledge in this field📚.
-      </h4>
+      </h3>
     </td>
     <td>
       <img width="240" height="140" src="https://s3.ezgif.com/tmp/ezgif-3-efd190aa28.gif" alt="William's GIF" />
