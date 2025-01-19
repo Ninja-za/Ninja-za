@@ -1,23 +1,35 @@
+<h1>&nbsp;</h1>
 <h1 align="left">🧗William</h1>
 <img align="right" height="153" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif"  />
 
 <h4 align="left">
-       💫I'm William, a developer in based London🌃.
+       I'm William, a developer in based London🌃.
       I'm eager to learn and grow my skills in coding👨‍💻.
      I enjoy exploring new technologies and am excited to work on interesting projects🏗️.
     I'm looking forward to connecting with other developers and improving my knowledge in this field📚.
+
+
+
+       
 </h4>
 
 
 
   
 
+
+
+
+<h1>&nbsp;</h1>
 <h2>💻 Languages and Tools I Use:</h2>
+
+
+
 
 
 <br clear="both">
 
-
+###
 ###
 
 
