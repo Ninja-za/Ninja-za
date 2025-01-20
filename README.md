@@ -11,7 +11,7 @@
       </h3>
     </td>
     <td>
-      <img width="240" height="140" src="https://s3.ezgif.com/tmp/ezgif-3-efd190aa28.gif" alt="William's GIF" />
+      <img width="240" height="140" src="https://media1.tenor.com/m/zHeOTU7bLlwAAAAC/naruto-itachi.gif" alt="William's GIF" />
     </td>
   </tr>
 </table>
