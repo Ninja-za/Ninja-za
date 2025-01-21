@@ -1,14 +1,14 @@
 <h1>🧗William</h1>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
     <h4>I'm William, a developer based in London.🌃</h4>
     <h4>I'm eager to learn and grow my skills in coding!👨‍💻</h4>
     <h4>I love exploring new technologies and working on exciting projects!🏗️</h4>
     <h4>I look forward to connecting with developers and enhancing my knowledge in this field!📚</h4>
   </div>
   <div>
-    <img width="240" height="140" src="https://media1.tenor.com/m/zHeOTU7bLlwAAAAC/naruto-itachi.gif" alt="William's GIF" />
+    <img width="240" height="140" src="https://media1.tenor.com/m/zHeOTU7bLlwAAAAC/naruto-itachi.gif" alt="William's GIF" style="max-width: 100%; height: auto;" />
   </div>
 </div>
 
