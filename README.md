@@ -4,10 +4,13 @@
   <tr>
     <td>
       <h3>
-        I'm William, a developer based in London🌃.
-        I'm eager to learn and grow my skills in coding👨‍💻.
-        I enjoy exploring new technologies and am excited to work on interesting projects🏗️.
-        I'm looking forward to connecting with other developers and improving my knowledge in this field📚.
+        I'm William, a developer based in London.🌃
+      <h3>
+        I'm eager to learn and grow my skills in coding!👨‍💻
+      <h3>
+        I love exploring new technologies and working on exciting projects!🏗️
+      <h3>
+        I look forward to connecting with developers and enhancing my knowledge in this field!📚
       </h3>
     </td>
     <td>
@@ -16,7 +19,7 @@
   </tr>
 </table>
 
-<h2>💻 Languages and Tools I Use:</h2>
+<h2>📚 Languages and Tools I Use:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
