@@ -3,15 +3,15 @@
 <table>
   <tr>
     <td>
-      <h4>
+      <h3>
         I'm William, a developer based in London.🌃
-      <h4>
-        I'm eager to learn and grow my skills in coding!👨‍💻
-      <h4>
-        I love exploring new technologies and working on exciting projects!🏗️
-      <h4>
-        I look forward to connecting with developers and enhancing my knowledge in this field!📚
-      </h4>
+      <h3>
+        I am eager to learn and grow my skills in coding!👨‍💻
+      <h3>
+        I love exploring new tech and working on exciting projects!🚀
+      <h3>
+        I look forward to connecting with developers and growing my knowledge!📚
+      </h3>
     </td>
     <td>
       <img width="240" height="140" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif" alt="William's GIF" />
