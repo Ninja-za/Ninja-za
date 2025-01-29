@@ -1,6 +1,6 @@
 <h1>🧗William</h1>
 
-<table style="border-collapse: collapse; border: none;">
+<table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
       <h3>I'm William, a developer based in London.🌃</h3>
@@ -13,7 +13,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <h2>📚 Languages and Tools I Use:</h2>
