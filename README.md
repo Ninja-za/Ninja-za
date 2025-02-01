@@ -9,7 +9,7 @@
       <h3>Excited to connect with developers and expand my knowledge!📚</h3>
     </td>
     <td style="border: none;">
-      <img width="440" height="270" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif" alt="William's GIF" />
+      <img width="340" height="170" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif" alt="William's GIF" />
     </td>
   </tr>
 </table>
