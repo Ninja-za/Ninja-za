@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="700"  height="302" src="https://media1.tenor.com/m/CrR0IPeOTGMAAAAC/black-and-white-fly.gif"  />
+  <img width="1000"  height="402" src="https://media1.tenor.com/m/CrR0IPeOTGMAAAAC/black-and-white-fly.gif"  />
 </div>
 
 
