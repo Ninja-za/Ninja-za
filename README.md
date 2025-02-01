@@ -1,9 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img width="1000"  height="302" src="https://media1.tenor.com/m/CrR0IPeOTGMAAAAC/black-and-white-fly.gif"  />
-</div>
-
 
 
 <h1 align="centre">🧗William</h1>
