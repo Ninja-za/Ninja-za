@@ -11,14 +11,15 @@
     <h3>🚀 I enjoy exploring new tech and working on projects.</h3>
     <h3>🛰 I look forward to connecting with other developers!</h3>
     </td>
-    <td style="border: none;">
+    <td style="border= "none;">
       <img width="340" height="170" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif" alt="William's GIF" />
     </td>
   </tr>
 </table>
-<br>
 
-<h2>💻 Languages and Tools I Use:</h2>
+
+## 💻 Languages and Tools I Use:
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
