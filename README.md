@@ -15,7 +15,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 
 <h2>💻 Languages and Tools I Use:</h2>
 
