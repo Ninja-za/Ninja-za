@@ -6,8 +6,8 @@
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-    <h3>💯 I'm William, a developer from London.</h3>
-    <h3>👨‍💻 I want to learn and improve my coding skills.</h3>
+    <h3>🥷 I'm William, a developer from London.</h3>
+    <h3>💻 I want to learn and improve my coding skills.</h3>
     <h3>🚀 I enjoy exploring new tech and working on projects.</h3>
     <h3>🛰 I look forward to connecting with other developers!</h3>
     </td>
