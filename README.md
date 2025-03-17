@@ -1,7 +1,8 @@
 
 
-<h1 align="centre">🧗🏻William</h1>
+<h1 align="center"><b>🧗🏻William</b></h1>
 <br>
+
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -18,22 +19,17 @@
 </table>
 
 
-## 💻 Languages and Tools I Use:
+<h2 align="center">💻 Languages and Tools I Use:</h2>
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" />
   <img width="11" />
-  <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/12653425/mkMrNAtqyb2cOskfKcITq3WMq8U3t7eDo.png" height="55" alt="css3 logo"  />
+  <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/12653425/mkMrNAtqyb2cOskfKcITq3WMq8U3t7eDo.png" height="55" alt="additional logo" />
 </div>
- 
-</div>
-
-
 
 
 
