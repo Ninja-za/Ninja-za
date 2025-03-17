@@ -1,23 +1,25 @@
 
 
 <h1 align="center"><b>🧗🏻William</b></h1>
-  <div align="center" style="flex: 0 0 auto; margin-left: 20px border: 20;">
-    <img width="340" height="170" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif" alt="William's GIF" />
-  </div>
-</div>
+ 
 
 
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-    <h3>🛰 I look forward to connecting with other developers!</h3>
-    <h3>&nbsp;&nbsp;&nbsp;🚀 I enjoy exploring new tech and working on projects.</h3>
-    <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 I want to learn and improve my coding skills.</h3>
-    <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🀄 I'm William, a developer from London.</h3>
-  </div><hr>
-
-
-
+<table border="0" style="border-collapse: collapse; border: none;">
+   <tr>
+     <td style="border: none;">
+       <h3>💯 I'm William, a passionate developer based in London.</h3>
+       <h3>👨‍💻 I am dedicated to enhancing my coding skills and knowledge.</h3>
+       <h3>🚀 I thrive on exploring innovative technologies.</h3>
+       <h3>🛰 I eagerly anticipate connecting with fellow developers!</h3>
+     </td>
+     <td style="border: none; text-align: center; padding-left: 20px;">
+       <div style="flex: 0 0 auto;">
+         <img width="340" height="170" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif" alt="William's GIF" />
+       </div>
+     </td>
+   </tr>
+</table>
 
 
 
