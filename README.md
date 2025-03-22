@@ -33,7 +33,7 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" />
   <img width="11" />
-  <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/12653425/mkMrNAtqyb2cOskfKcITq3WMq8U3t7eDo.png" height="55" alt="additional logo" />
+  <img src="https://raw.githubusercontent.com/github/explore/58ff7d84bcc6dff955c67ddba1f702c793dc670d/topics/batch-file/batch-file.png" height="55" alt="additional logo" />
 </div>
 
 
