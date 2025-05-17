@@ -24,7 +24,7 @@
 
 
 
-<h2 align="center">💻 Languages and Tools I Use:</h2>
+<h2 align="center">💻 Languages and Tools I Use or Am Familiar With</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
