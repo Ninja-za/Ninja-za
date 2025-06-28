@@ -1,6 +1,6 @@
 
 
-<h1 ><b>🧗🏻William</b></h1>
+<h1 ><b>William</b></h1>
  
 
 
