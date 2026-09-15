@@ -15,7 +15,6 @@
      </td>
      <td style="border: none; text-align: center; padding-left: 20px;">
        <div style="flex: 0 0 auto;">
-         <img width="340" height="170" src="https://media1.tenor.com/m/5IW2P62ENCAAAAAd/sharingan-naruto.gif" alt="William's GIF" />
        </div>
      </td>
    </tr>
