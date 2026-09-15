@@ -5,20 +5,6 @@
 
 
 
-<table border="0" style="border-collapse: collapse; border: none;">
-   <tr>
-     <td style="border: none;">
-<h3>💯 I'm William, a developer and cybersecurity enthusiast.</h3>
-<h3>👨‍💻 I enjoy coding and learning about security.</h3>
-<h3>🚀 Always exploring new tech and security tools.</h3>
-<h3>🛰 Let's connect and collaborate.</h3>
-     </td>
-     <td style="border: none; text-align: center; padding-left: 20px;">
-       <div style="flex: 0 0 auto;">
-       </div>
-     </td>
-   </tr>
-</table>
 
 
 
